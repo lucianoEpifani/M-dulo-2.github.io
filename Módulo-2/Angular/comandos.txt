@@ -1,0 +1,7 @@
+12 - Para realizar una transpilación debes crear un archivo .ts y luego en la terminal utilizar el comando tsc nombre del archivo.
+
+13 - Comando para versión Typescript : tsc -v
+Comando para versión Node Js : node -v
+Instalador de paquetes : npm -v
+Angular versión: ng version
+

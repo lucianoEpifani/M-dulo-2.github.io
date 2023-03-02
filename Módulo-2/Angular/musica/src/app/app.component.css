@@ -1,0 +1,28 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.titulo {
+    background-image: url(/IMG/pexels-bryan-catota-3756766.jpeg);
+    background-position: top 30% right 30%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 40rem;
+    width: 100%;
+    background-image: linear-gradient(to top,
+            rgb(154, 70, 163, 0.5),
+            rgb(58, 135, 133, 0.73)), url(/IMG/pexels-bryan-catota-3756766.jpeg);
+    opacity: 0.8;
+}
+
+.titulo img {
+    height: 10rem;
+    margin: 0;
+    color: black;
+}
